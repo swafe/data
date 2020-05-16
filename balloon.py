@@ -52,7 +52,7 @@ DEFAULT_LOGS_DIR = os.path.join(ROOT_DIR, "logs")
 ############################################################
 #  Configurations
 ############################################################
-test = '100'
+test = '101'
 
 class BalloonConfig(Config):
     """Configuration for training on the toy  dataset.
